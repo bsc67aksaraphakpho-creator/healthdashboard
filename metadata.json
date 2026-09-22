@@ -1,0 +1,6 @@
+{
+  "name": "Health Risk & Behavior Dashboard",
+  "description": "Dashboard วิเคราะห์ภาวะสุขภาพ ปัจจัยเสี่ยง และพฤติกรรมสุขภาพของผู้ได้รับการคัดกรอง โดย นางสาวอักษราภัค พลศรี",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
